@@ -1,5 +1,5 @@
 # PhantomJS在服务端生成ECharts图片
-
+# 主要修改：根据后台传递 通过约定data，传一个新的对象进来，解析拆分，详细：http://t.csdn.cn/H8tJh
  **主要功能：给定ECharts的option参数，生成ECharts图片，并以Base64字符串返回。** 
 
 ## 1. PhantomJS 介绍
